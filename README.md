@@ -1,7 +1,7 @@
 # Traffic-Sign-Classifier
 Udacity Self-Driving Car Engineer Class Project, due on Jan 9th, 2017
 
-# Project Specification
+# Project Reflection
 Dataset Exploration
 * Perform a visulation on the dataset
 
